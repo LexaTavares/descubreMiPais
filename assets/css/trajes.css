@@ -1,0 +1,14 @@
+#titulo{
+  background-image: url(../img/trajes/fondo.jpg);
+  color: white;
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.imagen{
+  width: 60%;
+}
+
+.textoTrajes{
+  padding: 4%;
+}
