@@ -1,1 +1,68 @@
-
+/*Estilos Itzel*/
+#portada{
+	margin-right: 0;
+	background-image: url(../img/img-portada/portada-title-reduce.jpg);
+	background-size: 100% 90%;
+	background-color: pink;
+	height: 500px;
+	width: 100%;
+}
+.logo{
+	padding: 0;
+	margin:0;
+	border:none;
+	background-color: none;
+}
+.button-link{
+	text-decoration: none;
+	padding: 15px 20px;
+	margin-top: 85%;
+	margin-left: 25%;
+    background-color: rgba(245, 0, 135, .9);
+    border: 3px solid #fff;
+    color: #fff;
+    font-size: 21px;
+    border-radius: 10px;
+}
+.button-link:hover{
+	color: rgb(245, 0, 135);
+	background-color: #fff;
+	font-weight: 700;
+	cursor: pointer;
+}
+#plataform{
+	width: 100%;
+	padding: 10%;
+}
+.align-left{
+	text-align: left;
+	margin-left: 3%;
+}
+.align-right{
+	text-align: right;
+}
+#nav{
+	height: 100px;
+	background-color: rgba(100, 100, 100, .5);
+	position: fixed;
+	display: none;
+}
+#logo{
+	border-radius: 10px;
+	border: solid 4px rgb(245, 0, 135);
+	margin-top: 10%;
+	margin-left: 35%;
+}
+#gaming{
+	height: 500px;
+}
+.container{
+	width: 100%;
+	margin: 0px auto;
+}
+.buttons{
+	line-height: 90px;
+	padding: 5% 10%;
+	margin-left: 1%;
+}
+/*Termina estilos Itzel*/
