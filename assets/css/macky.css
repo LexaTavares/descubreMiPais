@@ -13,6 +13,8 @@
 }
 #cuerpo {
 	background-image:url(../img/fondo2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 	color: #CDFFE9;
 }
 #cuerpo img {
@@ -36,6 +38,8 @@
 }
 #galeria {
 	background-image:url(../img/fondo3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .img{
 	width: 60%;
