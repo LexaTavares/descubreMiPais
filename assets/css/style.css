@@ -1,0 +1,10 @@
+nav{
+  /*position: fixed;*/
+  /*background-color: pink;*/
+  /*background-image: url("assets/img/papel2.jpg");*/
+  z-index: 1;
+}
+
+a{
+  text-decoration: none;
+}
