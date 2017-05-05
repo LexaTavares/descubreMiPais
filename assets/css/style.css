@@ -1,10 +1,31 @@
+header{
+  width: 100%;
+  border: none;
+  border-bottom: 3px solid black;
+}
 nav{
   /*position: fixed;*/
   /*background-color: pink;*/
   /*background-image: url("assets/img/papel2.jpg");*/
-  z-index: 1;
+  /*z-index: 1;*/
+  /*margin-top: -5%;*/
+}
+img{
+  width: 100%;
+}
+a{
+  padding: 10px;
+  color: black;
+  text-decoration: none;
 }
 
-a{
-  text-decoration: none;
+a:hover{
+  color: #f000ff;
+  background-color: black;
+  border-radius: 5px;
+}
+
+/*header*/
+header > img{
+  height: 100px;
 }

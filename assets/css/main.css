@@ -1,14 +1,25 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body{
   font-family: 'Indie Flower', cursive;
   font-size: 20px;
   text-align: center;
 }
-
+/*Estilos para los margenes*/
+.pad-2{
+  padding: 2%;
+}
+/*Estilos para el texto*/
 .negrita{
   font-weight: bold;
 }
 
 .tituloS{
+  color: #f000ff;
   font-size: 35px;
 }
 
