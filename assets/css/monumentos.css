@@ -1,3 +1,63 @@
-*{
-	background-color: black;
+/*Estilos Itzel*/
+#portada{
+	margin-right: 0;
+	background-image: url(images/portada-title.jpg);
+	background-color: pink;
+	height: 500px;
+	width: 100%;
 }
+a:first-child{
+	padding: 0;
+	margin:0;
+	border:none;
+	background-color: none;
+}
+a, button{
+	text-decoration: none;
+	padding: 15px 20px;
+	margin-top: 75%;
+	margin-left: 25%;
+    background-color: rgba(245, 0, 135, .9);
+    border: 3px solid #fff;
+    color: #fff;
+    font-size: 21px;
+    border-radius: 10px;
+}
+a:hover, button:hover{
+	color: rgb(245, 0, 135);
+	background-color: #fff;
+	font-weight: 700;
+	cursor: pointer;
+}
+#plataform{
+	width: 100%;
+	padding: 10%;
+}
+.align-left{
+	text-align: left;
+	margin-left: 3%;
+}
+.align-right{
+	text-align: right;
+}
+#nav{
+	height: 100px;
+	background-color: rgba(100, 100, 100, .5);
+	position: fixed;
+	display: none;
+}
+.col-1>a{
+	padding: 8% 12%;
+	border-radius: 10px;
+	background-color: rgba(250, 250, 250, .3);
+	border: solid 2px white;
+	line-height: 45px;
+}
+#logo{
+	border-radius: 10px;
+	border: solid 2px gray;
+}
+#gaming{
+	height: 500px;
+}
+/*Termina estilos Itzel*/
