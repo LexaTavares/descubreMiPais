@@ -35,6 +35,7 @@
   opacity:
 }
 .modal {
+  
   display:none;
   position: fixed;
   background-color: transparent;
